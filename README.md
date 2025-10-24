@@ -26,8 +26,6 @@ The platform allows users to find language exchange partners, send friend reques
 
 ## ✨ Application Screenshots
 
-I've used your exact filenames and placed them based on their likely content.
-
 ### 1. Friends Dashboard & Language Matching
 Find new partners based on the languages they speak and want to learn.
 <img src="readme-assets/Screenshot 2025-10-24 114905.png" alt="Friends Dashboard & Language Matching" width="700"/>
