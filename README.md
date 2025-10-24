@@ -23,6 +23,34 @@ The platform allows users to find language exchange partners, send friend reques
 
 ---
 
+
+## ✨ Application Screenshots
+
+I've used your exact filenames and placed them based on their likely content.
+
+### 1. Friends Dashboard & Language Matching
+Find new partners based on the languages they speak and want to learn.
+<img src="readme-assets/Screenshot 2025-10-24 114905.png" alt="Friends Dashboard & Language Matching" width="700"/>
+
+
+### 2. Notification Center
+Get updates when users accept your friend requests.
+<img src="./readme-assets/Screenshot 2025-10-24 114939.png" alt="Notification Center" width="700"/>
+
+
+### 3. Real-time Chat Window
+Chat with friends, send images, and start a video call.
+<img src="./readme-assets/Screenshot 2025-10-24 115036.png" alt="Real-time Chat Window" width="700"/>
+
+
+### 4. Video Call in Progress
+Join a high-quality video call with full controls for mic, camera, and screen sharing.
+<img src="./readme-assets/Screenshot 2025-10-24 115137.png" alt="Video Call in Progress" width="700"/>
+
+
+---
+
+
 ## 📋 How It Works: The User Flow
 
 The application provides a seamless experience from finding a partner to having a conversation.
@@ -68,31 +96,6 @@ This project includes a wide range of modern, real-time features.
 
 ---
 
-## ✨ Application Screenshots
-
-I've used your exact filenames and placed them based on their likely content.
-
-### 1. Friends Dashboard & Language Matching
-Find new partners based on the languages they speak and want to learn.
-<img src="readme-assets/Screenshot 2025-10-24 114905.png" alt="Friends Dashboard & Language Matching" width="700"/>
-
-
-### 2. Notification Center
-Get updates when users accept your friend requests.
-<img src="./readme-assets/Screenshot 2025-10-24 114939.png" alt="Notification Center" width="700"/>
-
-
-### 3. Real-time Chat Window
-Chat with friends, send images, and start a video call.
-<img src="./readme-assets/Screenshot 2025-10-24 115036.png" alt="Real-time Chat Window" width="700"/>
-
-
-### 4. Video Call in Progress
-Join a high-quality video call with full controls for mic, camera, and screen sharing.
-<img src="./readme-assets/Screenshot 2025-10-24 115137.png" alt="Video Call in Progress" width="700"/>
-
-
----
 
 ## 🛠️ Tech Stack
 
