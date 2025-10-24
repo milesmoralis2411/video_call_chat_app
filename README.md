@@ -50,7 +50,7 @@ This project includes a wide range of modern, real-time features.
 * **Secure JWT Authentication**: Full user login and registration flow with hashed passwords (`bcrypt`) and protected routes.
 
 ### Real-time Chat (via Stream)
-* **1-on-1 & Group Chats**: Seamlessly create and manage chat channels with friends.
+* **1-on-1 Chats**: Seamlessly create and manage chat channels with friends.
 * **Image Attachments**: Share images directly in the chat window.
 * **Video Call Integration**: Start a video call and automatically send the secure join link into the chat.
 * **Modern Chat UI**: Features include typing indicators, emoji reactions, and read receipts.
