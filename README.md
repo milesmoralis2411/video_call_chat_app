@@ -53,15 +53,15 @@ Join a high-quality video call with full controls for mic, camera, and screen sh
 
 The application provides a seamless experience from finding a partner to having a conversation.
 
-1.  **Authentication**: A user first visits the site and is presented with a **Login** or **Sign Up** page.
-2.  **Sign Up & Login**: New users can register, and existing users can log in. The backend validates credentials and returns a **JWT (JSON Web Token)** for session management.
-3.  **Authorization**: This JWT is used to protect all core application routes, ensuring only logged-in users can access the dashboard, chats, and calls.
-4.  **Find Learners**: After logging in, the user lands on the main dashboard. Here, they can browse profiles of "New Learners," clearly seeing each user's **Native Language** and **Learning Language**.
-5.  **Friend Request System**: Users can send friend requests to potential partners.
-6.  **Notifications**: The "Notifications" tab alerts users when their friend requests have been accepted, turning a "New Learner" into a "Friend."
-7.  **Real-time Chat**: Users can open a chat window with their connected friends to send text messages and image attachments in real-time.
-8.  **Initiate Video Call**: From any chat window, a user can instantly start a 1-on-1 video call by sending a unique, secure join link directly into the chat.
-9.  **Video Call**: Both users can join the video call room, which includes a full suite of controls for muting the mic, toggling the camera, sharing their screen, **recording the session**, sending **live reactions (emojis)**, and ending the call.
+1.  **Authentication**: A user first visits the site and is presented with a **Login** or **Sign Up** page.
+2.  **Sign Up & Login**: New users can register, and existing users can log in. The backend validates credentials and returns a **JWT (JSON Web Token)** for session management.
+3.  **Authorization**: This JWT is used to protect all core application routes, ensuring only logged-in users can access the dashboard, chats, and calls.
+4.  **Find Learners**: After logging in, the user lands on the main dashboard. Here, they can browse profiles of "New Learners," clearly seeing each user's **Native Language** and **Learning Language**.
+5.  **Friend Request System**: Users can send friend requests to potential partners.
+6.  **Notifications**: The "Notifications" tab alerts users when their friend requests have been accepted, turning a "New Learner" into a "Friend."
+7.  **Real-time Chat**: Users can open a chat window with their connected friends to send text messages and image attachments in real-time.
+8.  **Initiate Video Call**: From any chat window, a user can instantly start a 1-on-1 video call by sending a unique, secure join link directly into the chat.
+9.  **Video Call**: Both users can join the video call room, which includes a full suite of controls for muting the mic, toggling the camera, sharing their screen, **recording the session**, sending **live reactions (emojis)**, and ending the call.
 
 ---
 
