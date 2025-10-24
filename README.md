@@ -74,11 +74,13 @@ I've used your exact filenames and placed them based on their likely content.
 
 ### 1. Friends Dashboard & Language Matching
 Find new partners based on the languages they speak and want to learn.
-<img src="./readme-assets/Screenshot 2025-10-24 114939.png" alt="Friends Dashboard & Language Matching" width="700"/>
+<img src="readme-assets/Screenshot 2025-10-24 114905.png" alt="Friends Dashboard & Language Matching" width="700"/>
+
 
 ### 2. Notification Center
 Get updates when users accept your friend requests.
-<img src="readme-assets/Screenshot 2025-10-24 114905.png" alt=" Notification Center" width="700"/>
+<img src="./readme-assets/Screenshot 2025-10-24 114939.png" alt="Notification Center" width="700"/>
+
 
 ### 3. Real-time Chat Window
 Chat with friends, send images, and start a video call.
